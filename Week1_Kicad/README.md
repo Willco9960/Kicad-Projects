@@ -12,7 +12,7 @@ This repository contains a recreation of my final project in Digital Logic Desig
 - `Recreated.HTML` – Bill of Materials with component details  
 - `FianlProjectRecreated.step` – 3D model/render of the project  
 - `Final_Recreated.pdf` – Full schematic of the logic circuit
-- `presantion of final project DLD (1).pdf` - Presentation of Project
+- `presentation of final project DLD (1).pdf` - Presentation of Project
 
 ## Project Description
 
