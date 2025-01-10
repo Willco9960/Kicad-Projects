@@ -8,16 +8,16 @@ This repository contains a recreation of my final project in Digital Logic Desig
 
 ## Files
 
-- `BOM.xlsx` – Bill of Materials with component details  
-- `3D_Render.png` – 3D model/render of the project  
-- `Schematic.pdf` – Full schematic of the logic circuit
+- `Recreated.HTML` – Bill of Materials with component details  
+- `FianlProjectRecreated.step` – 3D model/render of the project  
+- `Final_Recreated.pdf` – Full schematic of the logic circuit
 
 ## Project Description
 
-[Brief description of your project and its functionality.]
+Designed to keep track of cars enteing and leaving parking garage
 
 ## How to Use
-# download and open files locally
+download and open files locally
 
 ---
 
